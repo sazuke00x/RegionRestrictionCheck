@@ -16,6 +16,9 @@
 例如：Ubuntu 16+, Debian 10+, RHEL 7+, Arch Linux, Alpine Linux, FreeBSD, MacOS 10.13+, Android (Termux), iOS (iSH), Windows (MinGW/Cygwin), OpenWRT 23+ 等等。
 
 ## 使用方法
+````bash
+bash <(curl -L -s https://raw.githubusercontent.com/lmc999/RegionRestrictionCheck/main/check.sh)
+````
 
 **使用脚本前请确认 curl 已安装**
 
